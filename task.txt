@@ -1,0 +1,12 @@
+Core Java
+J2EE
+JDBC
+Servlet
+JSP
+SQL
+HTML
+CSS
+JavaScript
+Bootstrap
+Git
+Communication
